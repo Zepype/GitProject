@@ -1,4 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My First git project</string>
     <string name="my_first_work_with_git_flow">My first work with Git Flow!</string>
 </resources>
